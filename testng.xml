@@ -4,7 +4,7 @@
 <suite name="selenium">
     <test name="login">
         <classes>
-            <class name="com.telesens.automationpractice.lesson13.Task01AuthTests" />
+            <class name="com.telesens.automationpractice.lesson13.Task02AuthTests" />
         </classes>
     </test>
 </suite>
